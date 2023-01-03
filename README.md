@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 
 
 [![Huseyin-pektas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Huseyin-pektas)](https://github.com/Huseyin-pektas/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-pektas)](https://github.com/Huseyin-pektas/github-readme-stats)
