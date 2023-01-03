@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ![Huseyin-pektas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huseyin-pektas&show_icons=true&theme=radical)
 
 
-[![Huseyin-pektas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Huseyin-pektas)[(https://github.com/Huseyin-pektas/github-readme-stats)]
+[![Huseyin-pektas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Huseyin-pektas)](https://github.com/Huseyin-pektas/github-readme-stats)
