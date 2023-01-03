@@ -16,3 +16,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![image](https://user-images.githubusercontent.com/117089980/210376178-9e6bdfe9-e740-49d1-b517-20b414a45461.png)
+
+
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
