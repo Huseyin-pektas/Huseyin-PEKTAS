@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 
 - ⚡ Fun fact: ...
 
-![image](https://user-images.githubusercontent.com/117089980/210376178-9e6bdfe9-e740-49d1-b517-20b414a45461.png)
+![image](https://camo.githubusercontent.com/0b18a88610d111a97b991f2da1caecfca019746192cf8d330e7e25e6bc24491b/68747470733a2f2f7777772e656d6f6a69616c6c2e636f6d2f696d616765732f36302f74656c656772616d2f31663563322e676966)
 
 [![Huseyin-pektas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Huseyin-pektas&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
