@@ -24,3 +24,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-pektas&layout=compact)](https://github.com/Huseyin-pektas/github-readme-stats)
+
+
+![image](https://camo.githubusercontent.com/b8591b320c5c2fd6aeadd0126867faa1d9f649f5e8f3c1fe9431b2b524a349e0/68747470733a2f2f7777772e656d6f6a69616c6c2e636f6d2f696d616765732f36302f74656c656772616d2f31663331662e676966)
+
+https://camo.githubusercontent.com/b8591b320c5c2fd6aeadd0126867faa1d9f649f5e8f3c1fe9431b2b524a349e0/68747470733a2f2f7777772e656d6f6a69616c6c2e636f6d2f696d616765732f36302f74656c656772616d2f31663331662e676966
