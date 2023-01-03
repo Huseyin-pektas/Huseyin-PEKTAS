@@ -29,6 +29,8 @@
 
 [![Huseyin-pektas](https://streak-stats.demolab.com/?user=Huseyin-pektas&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
+![Huseyin-pektas's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Huseyin-pektas&show_icons=true&theme=radical](https://streak-stats.demolab.com/?user=Huseyin-pektas&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats))
+
 
 ![Huseyin-pektas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huseyin-pektas&show_icons=true&theme=radical)
 
