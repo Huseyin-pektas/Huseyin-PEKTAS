@@ -4,20 +4,17 @@
 
 
  ![image](https://camo.githubusercontent.com/8e51b9591bedfccc9e5a5d3f106ef81018b8ff8941af57a5abb8b46366e75e1a/68747470733a2f2f7777772e656d6f6a69616c6c2e636f6d2f696d616765732f36302f74656c656772616d2f31663931642e676966) <h1> I am a Front-end Developer! </h1>
- <img  class="width:200;heiğht:200;"src=" ![image](https://camo.githubusercontent.com/afd3139a285295c960e8cab5f69d684aaf3831c631e218ae4483a29cd450f7d0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36312f48544d4c355f6c6f676f5f616e645f776f72646d61726b2e737667)"</img>
-![image](https://camo.githubusercontent.com/8e51b9591bedfccc9e5a5d3f106ef81018b8ff8941af57a5abb8b46366e75e1a/68747470733a2f2f7777772e656d6f6a69616c6c2e636f6d2f696d616765732f36302f74656c656772616d2f31663931642e676966)
- ![image](https://camo.githubusercontent.com/8e51b9591bedfccc9e5a5d3f106ef81018b8ff8941af57a5abb8b46366e75e1a/68747470733a2f2f7777772e656d6f6a69616c6c2e636f6d2f696d616765732f36302f74656c656772616d2f31663931642e676966)
- ![image](https://camo.githubusercontent.com/8e51b9591bedfccc9e5a5d3f106ef81018b8ff8941af57a5abb8b46366e75e1a/68747470733a2f2f7777772e656d6f6a69616c6c2e636f6d2f696d616765732f36302f74656c656772616d2f31663931642e676966)
 
 
 - 🔭  <h4> I’m currently working on javasctrip</h4>
 - 🌱  <h4> I’m currently learning javasctrip</h4>
-- 📫 <h4>How to reach me:<a href="pektashuseyin72@gmail.com"></a></h4> 
+- 📫 <h3>How to reach me:<a href="pektashuseyin72@gmail.com">pektashuseyin72@gmail.com</a></h3> 
 - ⚡  <h3>Fun fact:I love to work and travel</h3>
 
 ![image](https://camo.githubusercontent.com/0b18a88610d111a97b991f2da1caecfca019746192cf8d330e7e25e6bc24491b/68747470733a2f2f7777772e656d6f6a69616c6c2e636f6d2f696d616765732f36302f74656c656772616d2f31663563322e676966)
 <h1>Languages and Tools:</h1> 
 
+<h3>HTML5</h3><h3>CSS3</h3><h3>SASS (SCSS)</h3><h3>JavaScript</h3><h3>React</h3>    
 ![image](https://camo.githubusercontent.com/74daecca274c1ad3f7de7e4a6247c121cdd0bb63f6b6e8784e28fdea2b2ba55d/68747470733a2f2f7777772e656d6f6a69616c6c2e636f6d2f696d616765732f36302f74656c656772616d2f31663434392e676966)<h3>HTML5</h3><h3>CSS3</h3><h3>SASS (SCSS)</h3><h3>JavaScript</h3><h3>React</h3>    
  
 
