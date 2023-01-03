@@ -27,6 +27,6 @@
 
  <h2>How to reach me:</h3> 
   <h3> <a href="pektashuseyin72@gmail.com">  pektashuseyin72@gmail.com </a></h3> 
-<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BW7SPijaWRq2tlfJb%2FtxYdg%3D%3D"></a>
+<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BW7SPijaWRq2tlfJb%2FtxYdg%3D%3D">linkedin</a>
 
 ![image](https://camo.githubusercontent.com/b8591b320c5c2fd6aeadd0126867faa1d9f649f5e8f3c1fe9431b2b524a349e0/68747470733a2f2f7777772e656d6f6a69616c6c2e636f6d2f696d616765732f36302f74656c656772616d2f31663331662e676966)
