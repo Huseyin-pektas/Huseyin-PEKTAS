@@ -20,7 +20,10 @@
 
 <h2>My Stats</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Huseyin-pektas&theme=dark)](https://git.io/streak-stats)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Huseyin-pektas&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=Huseyin-pektas&theme=default" />
+</picture>
 
 [![Huseyin-pektas](https://streak-stats.demolab.com/?user=Huseyin-pektas&theme=dark)](https://git.io/streak-stats)
 
