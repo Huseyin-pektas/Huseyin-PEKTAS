@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-pektas)](https://github.com/Huseyin-pektas/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-pektas&layout=compact)](https://github.com/Huseyin-pektas/github-readme-stats)
