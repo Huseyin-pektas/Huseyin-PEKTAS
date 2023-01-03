@@ -1,8 +1,6 @@
   ![image](https://camo.githubusercontent.com/8e51b9591bedfccc9e5a5d3f106ef81018b8ff8941af57a5abb8b46366e75e1a/68747470733a2f2f7777772e656d6f6a69616c6c2e636f6d2f696d616765732f36302f74656c656772616d2f31663931642e676966)
  <h1>Hi Everyone! </h1>
 
-
-
  ![image](https://camo.githubusercontent.com/8e51b9591bedfccc9e5a5d3f106ef81018b8ff8941af57a5abb8b46366e75e1a/68747470733a2f2f7777772e656d6f6a69616c6c2e636f6d2f696d616765732f36302f74656c656772616d2f31663931642e676966) <h1> I am a Front-end Developer! </h1>
 
 
@@ -15,21 +13,10 @@
 <h1>Languages and Tools:</h1> 
   
 
-![image](https://camo.githubusercontent.com/74daecca274c1ad3f7de7e4a6247c121cdd0bb63f6b6e8784e28fdea2b2ba55d/68747470733a2f2f7777772e656d6f6a69616c6c2e636f6d2f696d616765732f36302f74656c656772616d2f31663434392e676966)<h3>HTML5</h3> ;<h3>CSS3</h3>;<h3>SASS (SCSS)</h3>;<h3>JavaScript</h3>;<h3>React</h3>    
+![image](https://camo.githubusercontent.com/74daecca274c1ad3f7de7e4a6247c121cdd0bb63f6b6e8784e28fdea2b2ba55d/68747470733a2f2f7777772e656d6f6a69616c6c2e636f6d2f696d616765732f36302f74656c656772616d2f31663434392e676966)<h3>HTML5,CSS3,SASS (SCSS),JavaScript,React</h3>    
  
 
 <h2>My Stats</h2>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Huseyin-pektas&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=Huseyin-pektas&theme=default" />
-</picture>
-
-[![Huseyin-pektas](https://streak-stats.demolab.com/?user=Huseyin-pektas&theme=dark)](https://git.io/streak-stats)
-
-[![Huseyin-pektas](https://streak-stats.demolab.com/?user=Huseyin-pektas&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
-![Huseyin-pektas's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Huseyin-pektas&show_icons=true&theme=radical](https://streak-stats.demolab.com/?user=Huseyin-pektas&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats))
 
 
 ![Huseyin-pektas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huseyin-pektas&show_icons=true&theme=radical)
