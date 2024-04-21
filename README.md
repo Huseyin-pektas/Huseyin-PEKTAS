@@ -20,7 +20,7 @@
 <h2>My Stats</h2>
 
 
-![Huseyin-pektas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huseyin-pektas&show_icons=true&theme=radical)
+![Huseyin-pektas's GitHub stats](68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6265797a6161616b65736572267468656d653d6e696768746f776c26686964655f626f726465723d66616c7365)
 
 
 
